@@ -1,0 +1,3 @@
+module "dashboard" {
+  source = "./dashboard"
+}
