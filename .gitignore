@@ -1,0 +1,7 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+.idea
+datadog-terraform-sample.iml
+terraform.tfvars
